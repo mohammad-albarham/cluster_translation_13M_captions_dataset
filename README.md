@@ -35,3 +35,6 @@ The main code used for translation exists on `nllb_multi_gpus_inference file`. T
 - I have used a cluster with 4 A10 GPUs, each A10 GPU has 24GB of RAM.
 
 
+# LICENSE
+
+- I have taken the dataset from BLIP repo, so I kept the LICENSE of their work.
