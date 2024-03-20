@@ -37,4 +37,4 @@ The main code used for translation exists on `nllb_multi_gpus_inference file`. T
 
 # LICENSE
 
-- I have taken the dataset from BLIP repo, so I kept the LICENSE of their work.
+- I have used MIT LICENSE for this code, but for the dataset used you should refer to BLIP LICENSE [here](https://github.com/salesforce/BLIP/blob/main/LICENSE.txt)
